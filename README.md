@@ -14,3 +14,4 @@ Create static website by `express.static()`.
 Using Heroku as a public server.
 ## Attributions:
 I reviewed some sample code by my instructor Tony Grimes.
+Patrick helped with my gallery centered and Heroku automatic deploys issues.
