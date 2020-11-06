@@ -1,0 +1,16 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "CPNT 262: Web Client and Server Programming ## Author name: Ariel Xiaomiao Zhang ## Assignment name: Assignment 2 - Dynamic animals gallery ## Github repo: [GH Pages](https://github.com/arielxiaomiaoz/cpnt262-a2) [GH Repo](https://github.com/arielxiaomiaoz/cpnt262-a2) ## Comments: For this assignment, my biggest challenge is my image doesn't work as I wish. I modified the path of the images for several times.  ## Attributions: I reviewed some sample code by my instructor Tony Grimes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
