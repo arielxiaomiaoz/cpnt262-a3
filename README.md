@@ -13,5 +13,5 @@ Assignment 3 - Deployed Static Express Website
 Create static website by `express.static()`.
 Using Heroku as a public server.
 ## Attributions:
-I reviewed some sample code by my instructor Tony Grimes.
+I reviewed some sample code by my instructor Tony Grimes.<br>
 Patrick helped with my gallery centered and Heroku automatic deploys issues.
